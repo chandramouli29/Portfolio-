@@ -166,7 +166,9 @@ A clear presentation of skills, certifications, and projects
 📫 Author Information
 
 👤 Name: Chandra Mouli S T
+
    College:M Kumarasamy College of Engineering
+   
    Deparment:B.Tech Information Technology
    
 💼 Role: Python FullStack Developer Trainee (Present) 
@@ -175,6 +177,7 @@ A clear presentation of skills, certifications, and projects
 📧 Email: mouligavaaskar@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/chandramouli-st
+
 
 
 
