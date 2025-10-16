@@ -168,9 +168,13 @@ A clear presentation of skills, certifications, and projects
 👤 Name: Chandra Mouli S T
    College:M Kumarasamy College of Engineering
    Deparment:B.Tech Information Technology
+   
 💼 Role: Python FullStack Developer Trainee (Present) 
           System Architect conducte by Talentsprint ( March - August 2024)
+
 📧 Email: mouligavaaskar@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/chandramouli-st
+
 
 
